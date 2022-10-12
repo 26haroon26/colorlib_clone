@@ -10,8 +10,8 @@ return<>
     <div className="rightSide">
         <form action="">
             <h1>Login to continue</h1>
-            <input type="email" placeholder="Email" />
-            <input type="password" placeholder="Password" />
+            <input type="email"  placeholder="Email" />
+            <input type="password"  placeholder="Password" />
            <div className='check'>
             <div >
                 <input type="checkbox" name="" id="checkbox"  />
