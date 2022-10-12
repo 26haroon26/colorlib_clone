@@ -98,3 +98,7 @@
 #checkbox {
     height: 10px;
 }
+.main .rightSide form input:focus{
+    border: 1px solid blue;
+    outline: none;
+}
